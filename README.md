@@ -1,2 +1,2 @@
 # aWebDev
-Personal webpage of Lithuanian84 WebDev
+Personal webpage of webdev portfolio
